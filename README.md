@@ -49,7 +49,7 @@ Database: SQLite (with Write-Ahead Logging for concurrency).
 The backend is a lightweight Flask microservice.bash
 
 Clone the repository
-git clone https://github.com/princegajnani/QR-based-Attendance-System.git cd QR-based-Attendance-System
+git clone https://github.com/princeakanerd/QR-based-Attendance-System.git cd QR-based-Attendance-System
 
 Set up virtual environment (Optional but recommended)
 python3 -m venv venv source venv/bin/activate # On Windows use venv\Scripts\activate
